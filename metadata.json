@@ -1,0 +1,6 @@
+{
+  "name": "Automotive Showcase",
+  "description": "An ultra-minimalist, premium landing page component inspired by the Audi R8 Spyder layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
